@@ -60,12 +60,12 @@ java Server -document_root <path> -port <port> [--protocol_version <1.0|1.1>] [-
 
 Start the server with default settings:
 ```bash
-java Server -document_root ./www -port 8080
+java Server -document_root  -port 8080
 ```
 
 Start the server with HTTP/1.0 and debug mode:
 ```bash
-java Server -document_root ./www -port 8888 --protocol_version 1.0 --debug_mode true
+java Server -document_root  -port 8888 --protocol_version 1.0 --debug_mode true
 ```
 
 ## Implementation Details
