@@ -1,0 +1,982 @@
+Feb 18, 2025 11:49:45 PM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = www.scu.edu/index.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/www.scu.edu/index.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/f.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /assets/public/scu.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/f.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/preloading.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = assets/public/scu.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/f.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/preloading.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/assets/public/scu.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/preloading.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/scuedu/style-assets/javascript/lazyloading.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/scuedu/style-assets/javascript/lazyloading.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/javascript/lazyloading.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/sun-red.svg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: relativePath = media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-6] isAllowedResource checking path: /media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/400.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: relativePath = media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /assets/public/scu.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: relativePath = assets/public/scu.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/f.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/assets/public/scu.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/f.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/f.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-6] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /index.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = index.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /index.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/index.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/external/brand-rollout-announcement/sun-red.svg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: relativePath = index.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/400.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/index.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-6] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: relativePath = media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: relativePath = media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/external/brand-rollout-announcement/sunrise-border.svg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/400.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: relativePath = media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-6] isAllowedResource checking path: /media/scuedu/style-assets/javascript/lazyloading.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: relativePath = media/scuedu/style-assets/javascript/lazyloading.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/javascript/lazyloading.js
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/preloading.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/preloading.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/preloading.css
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:45 PM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 18, 2025 11:49:45 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:47 PM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/external/scu-favicon/apple-touch-icon-60x60.png
+Feb 18, 2025 11:49:47 PM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/external/scu-favicon/android-chrome-192x192.png
+Feb 18, 2025 11:49:47 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: relativePath = media/external/scu-favicon/apple-touch-icon-60x60.png
+Feb 18, 2025 11:49:47 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/external/scu-favicon/android-chrome-192x192.png
+Feb 18, 2025 11:49:47 PM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/scu-favicon/apple-touch-icon-60x60.png
+Feb 18, 2025 11:49:47 PM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/scu-favicon/android-chrome-192x192.png
+Feb 18, 2025 11:49:47 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:47 PM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 18, 2025 11:49:47 PM Server$ClientTask sendFileResponse
+SEVERE: Error sending file: Broken pipe
+Feb 18, 2025 11:49:47 PM Server$ClientTask sendFileResponse
+SEVERE: Error sending file: Broken pipe
+Feb 18, 2025 11:49:47 PM Server$ClientTask run
+SEVERE: [Handler-2] Error processing client request: Connection reset
+Feb 18, 2025 11:49:47 PM Server$ClientTask run
+SEVERE: [Handler-4] Error processing client request: Connection reset
+Feb 18, 2025 11:49:47 PM Server$ClientTask closeClient
+INFO: [Handler-2] Connection closed: 127.0.0.1
+Feb 18, 2025 11:49:47 PM Server$ClientTask closeClient
+INFO: [Handler-4] Connection closed: 127.0.0.1
+Feb 18, 2025 11:49:55 PM Server$ClientTask closeClient
+INFO: [Handler-1] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET / HTTP/1.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = www.scu.edu/index.html
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/www.scu.edu/index.html
+Feb 19, 2025 12:02:47 AM Server$ClientTask run
+INFO: [Handler-1] Serving: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/www.scu.edu/index.html
+Feb 19, 2025 12:02:47 AM Server$ClientTask closeClient
+INFO: [Handler-1] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask run
+INFO: [Handler-2] Received: GET /media/scuedu/style-assets/stylesheets/f.css HTTP/1.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:02:47 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:47 AM Server$ClientTask run
+INFO: [Handler-3] Received: GET /assets/public/scu.js HTTP/1.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /assets/public/scu.js
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = assets/public/scu.js
+Feb 19, 2025 12:02:47 AM Server$ClientTask closeClient
+INFO: [Handler-2] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask run
+INFO: [Handler-4] Received: GET /media/scuedu/style-assets/stylesheets/preloading.css HTTP/1.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask run
+INFO: [Handler-5] Received: GET /media/scuedu/style-assets/javascript/lazyloading.js HTTP/1.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/assets/public/scu.js
+Feb 19, 2025 12:02:47 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:47 AM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:02:47 AM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:02:47 AM Server$ClientTask closeClient
+INFO: [Handler-3] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: relativePath = media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:02:47 AM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:02:47 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:47 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:47 AM Server$ClientTask closeClient
+INFO: [Handler-4] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:47 AM Server$ClientTask closeClient
+INFO: [Handler-5] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-6] Received: GET /media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-6] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: relativePath = media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-7] Received: GET /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-8] Received: GET /media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-9] Received: GET /media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-10] Received: GET /media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-7] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-11] Received: GET /media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-8] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-9] isAllowedResource checking path: /media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-10] isAllowedResource checking path: /media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-7] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-7] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-6] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-11] isAllowedResource checking path: /media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-11] resolveFile: relativePath = media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-8] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-9] resolveFile: relativePath = media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-10] resolveFile: relativePath = media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-11] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-8] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-9] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-7] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-10] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-12] Received: GET /media/external/brand-rollout-announcement/sun-red.svg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-11] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-8] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-12] isAllowedResource checking path: /media/external/brand-rollout-announcement/sun-red.svg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/400.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-14] Received: GET /media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-14] isAllowedResource checking path: /media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-14] resolveFile: relativePath = media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-13] Received: GET /media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-9] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-13] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-10] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-12] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-14] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-13] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-14] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-13] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-13] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-15] Received: GET /media/scuedu/style-assets/stylesheets/f.css HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-16] Received: GET /assets/public/scu.js HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-15] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-16] isAllowedResource checking path: /assets/public/scu.js
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-15] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-16] resolveFile: relativePath = assets/public/scu.js
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-15] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-16] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/assets/public/scu.js
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-15] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-16] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-17] Received: GET /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-18] Received: GET /media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-17] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-18] isAllowedResource checking path: /media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-17] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-18] resolveFile: relativePath = media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-17] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-18] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-17] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-18] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-19] Received: GET /index.html HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-19] isAllowedResource checking path: /index.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-20] Received: GET /index.html HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-19] resolveFile: relativePath = index.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-20] isAllowedResource checking path: /index.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-19] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/index.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-20] resolveFile: relativePath = index.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-20] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/index.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-19] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-20] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-21] Received: GET /media/external/brand-rollout-announcement/beige-badge-background-icon.png HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-22] Received: GET /media/external/brand-rollout-announcement/sunrise-border.svg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-21] isAllowedResource checking path: /media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-22] isAllowedResource checking path: /media/external/brand-rollout-announcement/sunrise-border.svg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-21] resolveFile: relativePath = media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/400.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-21] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-22] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-21] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-23] Received: GET /media/external/brand-rollout-announcement/sun-red.svg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-23] isAllowedResource checking path: /media/external/brand-rollout-announcement/sun-red.svg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/400.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-23] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-24] Received: GET /media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-24] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-24] resolveFile: relativePath = media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-24] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-24] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-25] Received: GET /media/scuedu/style-assets/javascript/lazyloading.js HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-25] isAllowedResource checking path: /media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-25] resolveFile: relativePath = media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-25] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-25] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-26] Received: GET /media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-26] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-26] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-26] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-26] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-27] Received: GET /media/scuedu/style-assets/stylesheets/preloading.css HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-27] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-27] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-27] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-27] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-28] Received: GET /media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-28] isAllowedResource checking path: /media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-28] resolveFile: relativePath = media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-28] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-28] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-29] Received: GET /media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-29] isAllowedResource checking path: /media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-29] resolveFile: relativePath = media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-29] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-29] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-30] Received: GET /media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-30] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-30] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-30] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-30] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-31] Received: GET /media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-31] isAllowedResource checking path: /media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-31] resolveFile: relativePath = media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-31] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-31] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-32] Received: GET /media/external/brand-rollout-announcement/sun-pattern-stats.png HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-32] isAllowedResource checking path: /media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-32] resolveFile: relativePath = media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-32] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-32] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask run
+INFO: [Handler-33] Received: GET /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:02:48 AM Server$ClientTask isAllowedResource
+INFO: [Handler-33] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-33] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask resolveFile
+INFO: [Handler-33] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:02:48 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:48 AM Server$ClientTask closeClient
+INFO: [Handler-33] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:49 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:02:49 AM Server$ClientTask run
+INFO: [Handler-35] Received: GET /media/external/scu-favicon/apple-touch-icon-60x60.png HTTP/1.1
+Feb 19, 2025 12:02:49 AM Server$ClientTask run
+INFO: [Handler-34] Received: GET /media/external/scu-favicon/android-chrome-192x192.png HTTP/1.1
+Feb 19, 2025 12:02:49 AM Server$ClientTask isAllowedResource
+INFO: [Handler-35] isAllowedResource checking path: /media/external/scu-favicon/apple-touch-icon-60x60.png
+Feb 19, 2025 12:02:49 AM Server$ClientTask resolveFile
+INFO: [Handler-35] resolveFile: relativePath = media/external/scu-favicon/apple-touch-icon-60x60.png
+Feb 19, 2025 12:02:49 AM Server$ClientTask isAllowedResource
+INFO: [Handler-34] isAllowedResource checking path: /media/external/scu-favicon/android-chrome-192x192.png
+Feb 19, 2025 12:02:49 AM Server$ClientTask resolveFile
+INFO: [Handler-34] resolveFile: relativePath = media/external/scu-favicon/android-chrome-192x192.png
+Feb 19, 2025 12:02:49 AM Server$ClientTask resolveFile
+INFO: [Handler-35] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/scu-favicon/apple-touch-icon-60x60.png
+Feb 19, 2025 12:02:49 AM Server$ClientTask resolveFile
+INFO: [Handler-34] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/scu-favicon/android-chrome-192x192.png
+Feb 19, 2025 12:02:49 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:49 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:02:49 AM Server$ClientTask closeClient
+INFO: [Handler-35] Connection closed: 127.0.0.1
+Feb 19, 2025 12:02:49 AM Server$ClientTask closeClient
+INFO: [Handler-34] Connection closed: 127.0.0.1
+Feb 19, 2025 12:03:22 AM Server$ClientTask <init>
+INFO: New connection from 127.0.0.1
+Feb 19, 2025 12:03:22 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:03:22 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:22 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:22 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:22 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET / HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = www.scu.edu/index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/www.scu.edu/index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Serving: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/www.scu.edu/index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-2] Received: GET /media/scuedu/style-assets/stylesheets/f.css HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-5] Received: GET /media/scuedu/style-assets/stylesheets/preloading.css HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-6] Received: GET /assets/public/scu.js HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-6] isAllowedResource checking path: /assets/public/scu.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: relativePath = assets/public/scu.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/assets/public/scu.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/f.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-4] Received: GET /media/scuedu/style-assets/javascript/lazyloading.js HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: relativePath = media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-6] Received: GET /media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-2] Received: GET /media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-3] Received: GET /media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-5] Received: GET /media/external/brand-rollout-announcement/sun-red.svg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-4] Received: GET /media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-6] isAllowedResource checking path: /media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: relativePath = media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-2] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-3] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /media/external/brand-rollout-announcement/sun-red.svg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/marielle-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-4] isAllowedResource checking path: /media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-6] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/global-village-2024-60_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: relativePath = media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/400.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: relativePath = media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-2] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-vs-gonzaga-50_img-web-1160x831.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-3] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu_auquaponics-20190521-jag-1127_img-web.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-4] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/business-commencement-3534_img-web-1160x831.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/scu-mission-church_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/amelia_fuller_lab_20231115_jg_1219_img-web-759x545.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-5] Received: GET /index.html HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-5] isAllowedResource checking path: /index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: relativePath = index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-5] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/scuedu/style-assets/javascript/lazyloading.js HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/javascript/lazyloading.js
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /index.html HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/index.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/beige-badge-background-icon.png HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/beige-badge-background-icon.png
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/scuedu/style-assets/stylesheets/preloading.css HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/scuedu/style-assets/stylesheets/preloading.css
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/sunrise-border.svg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/sunrise-border.svg
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/400.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/sun-pattern-stats.png HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sun-pattern-stats.png
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:26 AM Server$ClientTask run
+INFO: [Handler-1] Received: GET /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg HTTP/1.1
+Feb 19, 2025 12:03:26 AM Server$ClientTask isAllowedResource
+INFO: [Handler-1] isAllowedResource checking path: /media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: relativePath = media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask resolveFile
+INFO: [Handler-1] resolveFile: canonicalTarget = /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/media/external/brand-rollout-announcement/sam-thumbnail-still-02.jpg
+Feb 19, 2025 12:03:26 AM Server$ClientTask sendErrorResponse
+INFO: Looking for error file at: /Users/shreyashosagurgachndrashekhar/Desktop/ProgramAssignment-1/errors/404.html
+Feb 19, 2025 12:03:36 AM Server$ClientTask run
+INFO: [Handler-4] Persistent connection timed out.
+Feb 19, 2025 12:03:36 AM Server$ClientTask run
+INFO: [Handler-2] Persistent connection timed out.
+Feb 19, 2025 12:03:36 AM Server$ClientTask run
+INFO: [Handler-3] Persistent connection timed out.
+Feb 19, 2025 12:03:36 AM Server$ClientTask run
+INFO: [Handler-6] Persistent connection timed out.
+Feb 19, 2025 12:03:36 AM Server$ClientTask closeClient
+INFO: [Handler-2] Connection closed: 127.0.0.1
+Feb 19, 2025 12:03:36 AM Server$ClientTask closeClient
+INFO: [Handler-4] Connection closed: 127.0.0.1
+Feb 19, 2025 12:03:36 AM Server$ClientTask closeClient
+INFO: [Handler-3] Connection closed: 127.0.0.1
+Feb 19, 2025 12:03:36 AM Server$ClientTask closeClient
+INFO: [Handler-6] Connection closed: 127.0.0.1
+Feb 19, 2025 12:03:36 AM Server$ClientTask run
+INFO: [Handler-5] Persistent connection timed out.
+Feb 19, 2025 12:03:36 AM Server$ClientTask closeClient
+INFO: [Handler-5] Connection closed: 127.0.0.1
+Feb 19, 2025 12:03:36 AM Server$ClientTask run
+INFO: [Handler-1] Persistent connection timed out.
+Feb 19, 2025 12:03:36 AM Server$ClientTask closeClient
+INFO: [Handler-1] Connection closed: 127.0.0.1
