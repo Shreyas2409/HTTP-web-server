@@ -11,7 +11,7 @@ import java.util.logging.*;
 
 public class Server
  {
-    private static final String DEFAULT_FILE = "www.scu.edu/index.html";
+    private static final String DEFAULT_FILE = "YOUR-DIRECTORY-PATH/index.html";
     private static final String ERROR_400_PAGE = "errors/400.html";
     private static final String ERROR_403_PAGE = "errors/403.html";
     private static final String ERROR_404_PAGE = "errors/404.html";
